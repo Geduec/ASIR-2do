@@ -83,4 +83,3 @@ Vocabulario y documentación técnica en inglés.
 ---
 
 > **Nota:** Esta documentación se irá actualizando progresivamente a medida que avance el curso.
-

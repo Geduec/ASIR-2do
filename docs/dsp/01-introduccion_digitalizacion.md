@@ -84,7 +84,7 @@ sistemas, tomar decisiones importantes o comunicar información a terceros. Tamb
 los errores, los sesgos, la privacidad de los datos y los límites de responsabilidad; una respuesta de
 IA no sustituye el criterio profesional.
 
-El uso de estos sistemas en la Unión Europea debe ajustarse al **Reglamento UE de Inteligencia Artificial** 
+El uso de estos sistemas en la Unión Europea debe ajustarse al **Reglamento UE de Inteligencia Artificial**.
 Esta norma establece obligaciones según el nivel de riesgo
 del sistema, exige transparencia y supervisión humana en los casos aplicables y prohíbe determinados
 usos. Antes de implantar una solución de IA, la organización debe identificar su finalidad, evaluar sus
