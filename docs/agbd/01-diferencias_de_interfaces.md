@@ -1,4 +1,6 @@
-## DIFERENCIAS DE INTERFACES EN VIRTUALIZACIÓN
+# DIFERENCIAS DE INTERFACES EN VIRTUALIZACIÓN
+
+## Tipos de interfaces de red en VirtualBox
 
 ### Adaptador puente
 

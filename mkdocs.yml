@@ -1,0 +1,67 @@
+site_name: Apuntes 2º ASIR
+site_description: Documentación y prácticas de administración de sistemas
+site_author: Eduardo Elias
+
+theme:
+  name: material
+  language: es
+
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - attr_list
+
+nav:
+  - Inicio: index.md
+
+  - Administración de Sistemas Operativos:
+      - 01. Instalación de máquinas virtuales: aso/01-instalacion_maquinas_virtuales.md
+
+  - Análisis y Gestión de Bases de Datos:
+      - 01. Diferencias de interfaces: agbd/01-diferencias_de_interfaces.md
+
+  - Seguridad y Alta Disponibilidad:
+      - 01. Instalación de Ubuntu Server: sad/01-instalacion_de_ubuntu_server.md
+
+  - Servicios de Red e Internet:
+      - Próximamente
+
+  - Implantación de Aplicaciones Web:
+      - Próximamente
+
+  - Digitalización aplicada a los sectores productivos:
+      - 01. Introducción a la digitalización: dsp/01-introduccion_digitalizacion.md
+
+  - Sostenibilidad aplicada al sistema productivo:
+      - Próximamente
+
+  - Inglés técnico:
+      - Próximamente
