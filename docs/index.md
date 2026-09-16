@@ -77,4 +77,3 @@ Apuntes y actividades de la asignatura de MPO.
 ---
 
 > **Nota:** Esta documentación se irá actualizando progresivamente a medida que avance el curso.
-
