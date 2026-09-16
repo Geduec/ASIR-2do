@@ -12,74 +12,69 @@ Aquí recopilo apuntes, procedimientos, prácticas y conceptos técnicos trabaja
 
 Instalación, configuración y administración de sistemas Windows y Linux.
 
-**[→ Ver apuntes de ASO](aso/01-instalacion_maquinas_virtuales.md)**
-
----
+[→ Ver apuntes de ASO](aso/00-index.md)
 
 ### 🗄️ Análisis y Gestión de Bases de Datos
 
 Conceptos y herramientas relacionados con la administración y gestión de bases de datos.
 
-**[→ Ver apuntes de AGBD](agbd/01-diferencias_de_interfaces.md)**
-
----
+[→ Ver apuntes de AGBD](agbd/00-index.md)
 
 ### 🔒 Seguridad y Alta Disponibilidad
 
 Seguridad, disponibilidad y administración de sistemas.
 
-**[→ Ver apuntes de SAD](sad/01-instalacion_de_ubuntu_server.md)**
-
----
+[→ Ver apuntes de SAD](sad/00-index.md)
 
 ### 🌐 Servicios de Red e Internet
 
-Configuración y administración de servicios de red.
+Configuración y administración de servicios y tecnologías de red.
 
-> Próximamente
-
----
+[→ Ver apuntes de SRI](sri/00-index.md)
 
 ### 🌐 Implantación de Aplicaciones Web
 
 Desarrollo, configuración y despliegue de aplicaciones web.
 
-> Próximamente
-
----
+[→ Ver apuntes de IAW](iaw/00-index.md)
 
 ### 💻 Digitalización aplicada a los sectores productivos
 
 Tecnologías y herramientas digitales aplicadas al entorno profesional.
 
-**[→ Ver apuntes de DSP](dsp/01-introduccion_digitalizacion.md)**
-
----
+[→ Ver apuntes de DSP](dsp/00-index.md)
 
 ### ♻️ Sostenibilidad aplicada al sistema productivo
 
-Conceptos relacionados con sostenibilidad y tecnología.
+Conceptos relacionados con sostenibilidad y su aplicación en el entorno profesional.
 
-> Próximamente
-
----
+[→ Ver apuntes de SSP](ssp/00-index.md)
 
 ### 🇬🇧 Inglés técnico
 
-Vocabulario y documentación técnica en inglés.
+Vocabulario, documentación y comunicación técnica en inglés.
 
-> Próximamente
+[→ Ver apuntes de Inglés](ingles/00-index.md)
+
+### 📋 MPO
+
+Apuntes y actividades de la asignatura de MPO.
+
+[→ Ver apuntes de MPO](mpo/00-index.md)
 
 ---
 
 ## 🛠️ Entorno de trabajo
 
-| Categoría        | Herramientas                                      |
-| ---------------- | ------------------------------------------------- |
-| **Hipervisores** | VMware Workstation / VirtualBox                   |
-| **Sistemas**     | Windows Server 2022/2025 / Ubuntu Server / Debian |
-| **Editor**       | Visual Studio Code + Markdown                     |
+| Categoría                | Herramientas                            |
+| ------------------------ | --------------------------------------- |
+| **Hipervisores**         | VMware Workstation / VirtualBox         |
+| **Sistemas**             | Windows Server / Ubuntu Server / Debian |
+| **Editor**               | Visual Studio Code + Markdown           |
+| **Documentación**        | MkDocs Material                         |
+| **Control de versiones** | Git + GitHub                            |
 
 ---
 
 > **Nota:** Esta documentación se irá actualizando progresivamente a medida que avance el curso.
+

@@ -140,3 +140,5 @@ Y se va a exportar clicando en archivo, exportar servicio virtualizado, y se gua
 
 Un DNS (Domain Name System) es un sistema que traduce nombres de dominio legibles por humanos (como www.ejemplo.com) en direcciones IP numéricas (como 192.168.1.1).
 Es un sistema jerárquico y distribuido que permite a los usuarios acceder a sitios web y servicios en Internet utilizando nombres de dominio en lugar de tener que recordar direcciones IP.
+
+Continuación de la [Siguiente clase ->](./02-continuacion.md)

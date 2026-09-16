@@ -25,10 +25,12 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.sections
+    - navigation.prune
     - navigation.top
     - search.suggest
     - search.highlight
     - content.code.copy
+
 
 markdown_extensions:
   - admonition
@@ -42,26 +44,20 @@ markdown_extensions:
 nav:
   - Inicio: index.md
 
-  - Administración de Sistemas Operativos:
-      - 01. Instalación de máquinas virtuales: aso/01-instalacion_maquinas_virtuales.md
+  - Administración de Sistemas Operativos: aso/00-index.md
 
-  - Análisis y Gestión de Bases de Datos:
-      - 01. Diferencias de interfaces: agbd/01-diferencias_de_interfaces.md
+  - Análisis y Gestión de Bases de Datos: agbd/00-index.md
 
-  - Seguridad y Alta Disponibilidad:
-      - 01. Instalación de Ubuntu Server: sad/01-instalacion_de_ubuntu_server.md
+  - Seguridad y Alta Disponibilidad: sad/00-index.md
 
-  - Servicios de Red e Internet:
-      - Próximamente
+  - Servicios de Red e Internet: sri/00-index.md
 
-  - Implantación de Aplicaciones Web:
-      - Próximamente
+  - Implantación de Aplicaciones Web: iaw/00-index.md
 
-  - Digitalización aplicada a los sectores productivos:
-      - 01. Introducción a la digitalización: dsp/01-introduccion_digitalizacion.md
+  - Digitalización aplicada a los sectores productivos: dsp/00-index.md
 
-  - Sostenibilidad aplicada al sistema productivo:
-      - Próximamente
+  - Sostenibilidad aplicada al sistema productivo: ssp/00-index.md
 
-  - Inglés técnico:
-      - Próximamente
+  - Inglés técnico: ingles/00-index.md
+
+  - MPO: mpo/00-index.md

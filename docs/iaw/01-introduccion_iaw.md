@@ -95,3 +95,5 @@ Se actualizara la máquina virtual para las proximas sesiones de instalaciones d
 sudo apt update 
 sudo apt upgrade
 ```
+
+Continuación de la [Siguiente clase ->](./)

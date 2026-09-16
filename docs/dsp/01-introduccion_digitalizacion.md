@@ -89,3 +89,5 @@ Esta norma establece obligaciones según el nivel de riesgo
 del sistema, exige transparencia y supervisión humana en los casos aplicables y prohíbe determinados
 usos. Antes de implantar una solución de IA, la organización debe identificar su finalidad, evaluar sus
 riesgos y cumplir las obligaciones legales correspondientes.
+
+COntinuación de la [Siguiente clase ->](./)

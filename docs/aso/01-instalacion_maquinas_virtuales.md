@@ -140,3 +140,5 @@ Máquina limpia
 5. Pulsar **Aceptar**.
 
 De esta forma se dispone de un punto de restauración antes de continuar con las siguientes configuraciones y prácticas.
+
+Continuación de la [Siguiente clase ->](./)

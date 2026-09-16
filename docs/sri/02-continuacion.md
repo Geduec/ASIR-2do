@@ -1,6 +1,6 @@
 # Continuación
 
-Continuación de la [Clase 1](01-instalacion_de_ubuntu_server.md).
+Clase anterior [Clase 1](01-instalacion_de_ubuntu_server.md).
 
 ### Explicación de DNS
 
@@ -226,4 +226,4 @@ Ejemplos:
 | **Resolución típica** | Difusión (*broadcast*) o servicios de resolución de nombres planos como WINS. | Consultas cliente-servidor mediante consultas recursivas e iterativas.                                            |
 | **Escalabilidad**     | Limitada, especialmente cuando aumenta mucho el número de dispositivos.       | Muy alta; permite organizar y resolver nombres a escala global.                                                   |
 
-
+Continuación de la [Siguiente clase](./)

@@ -102,3 +102,5 @@ Adaptador puente → VM = otro equipo de la red física
 NAT              → VM → Internet a través del anfitrión
 Red interna      → VM ↔ VM, red totalmente aislada
 Red NAT          → VM ↔ VM + Internet
+
+Continuación de la [Siguiente clase ->](./)
