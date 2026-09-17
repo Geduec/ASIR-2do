@@ -103,4 +103,4 @@ NAT              → VM → Internet a través del anfitrión
 Red interna      → VM ↔ VM, red totalmente aislada
 Red NAT          → VM ↔ VM + Internet
 
-Continuación de la [Siguiente clase ->](./)
+Continuación de la [Siguiente clase ->](./02-instalacion_sistema_gestor.md)

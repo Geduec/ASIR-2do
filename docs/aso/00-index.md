@@ -9,3 +9,9 @@ En esta sección se recopilan las clases, prácticas y configuraciones realizada
 Instalación y configuración inicial de una máquina virtual con Windows Server 2022.
 
 [→ Ver clase](01-instalacion_maquinas_virtuales.md)
+
+### 02. Dominio y Active directory
+
+Se verá la intalación de dominios y de active directory en Windows Server.
+
+[→ Ver clase](02-dominio_y_active_directory.md)
