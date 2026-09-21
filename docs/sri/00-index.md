@@ -15,3 +15,9 @@ Primera clase de la asignatura, centrada en la instalación y configuración ini
 Continuación de la configuración realizada en la clase anterior.
 
 [→ Ver clase](02-continuacion.md)
+
+### 03. Jerarquía, procesos de resolución de DNS, consultas recursivas e iterativas
+
+Se habla de la jerarquía y procesos y consultas de DNS
+
+[→ Ver clase](03-jerarquia-procesos-de-resolución-de-dns-consultas-recursivas-e-iterativas.md)
