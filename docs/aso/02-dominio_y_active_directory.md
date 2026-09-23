@@ -98,4 +98,4 @@ Nos mostrará la información DNS asociada al dominio, incluyendo la dirección 
 
 Por último, se tomará una **instantánea de la máquina virtual** para poder volver a este estado en caso de que algo falle durante las siguientes prácticas.
 
-[Siguiente clase →](./)
+[Siguiente clase →](./03-estructura-de-active-directory.md)

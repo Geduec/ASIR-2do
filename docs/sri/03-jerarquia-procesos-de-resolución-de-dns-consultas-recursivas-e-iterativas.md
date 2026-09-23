@@ -166,4 +166,4 @@ En una consulta iterativa, el servidor DNS responde con la mejor información qu
 | **Carga de trabajo**     | Recae principalmente en el servidor que realiza la resolución. | La máquina consultante debe continuar realizando las consultas.   |
 | **Uso típico en la red** | Entre el PC/móvil y el resolver DNS configurado.               | Entre el resolver DNS y los servidores raíz, TLD y autoritativos. |
 
-[Siguiente clase →](./)
+[Siguiente clase →](./04-instalacion-bind9.md)

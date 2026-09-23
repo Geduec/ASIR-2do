@@ -15,3 +15,9 @@ Instalación y configuración inicial de una máquina virtual con Windows Server
 Se verá la intalación de dominios y de active directory en Windows Server.
 
 [→ Ver clase](02-dominio_y_active_directory.md)
+
+### 03. Estructura de Active Directory
+
+Se verá la estructura y creación de OU, grupos y usuarios y configuraciones
+
+[→ Ver clase](03-estructura-de-active-directory.md)

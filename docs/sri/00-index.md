@@ -21,3 +21,9 @@ Continuación de la configuración realizada en la clase anterior.
 Se habla de la jerarquía y procesos y consultas de DNS
 
 [→ Ver clase](03-jerarquia-procesos-de-resolución-de-dns-consultas-recursivas-e-iterativas.md)
+
+### 04. Instalación de Bind9
+
+Se verá la instalación de bind9 así como sus configuraciones
+
+[→ Ver clase](04-instalacion-bind9.md)

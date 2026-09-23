@@ -63,4 +63,4 @@ Para evaluar si una empresa es verdaderamente sostenible, deben sopesarse los im
   > *Ejemplo:* Una fábrica textil deslocalizada que vierte tintes sin depurar a ríos locales, emplea plásticos no reciclables y mantiene jornadas extenuantes sin medidas de seguridad.
   > *Impacto:* Afectación severa al ecosistema y vulneración de derechos básicos sin ningún compromiso regenerativo.
 
-  Continuación de la [Siguiente clase ->](./)
+  Continuación de la [Siguiente clase ->](./02-sostenibilidad-en-el-mundo-social.md)
