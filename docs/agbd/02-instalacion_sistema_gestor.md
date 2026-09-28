@@ -63,4 +63,4 @@ Se puede mirar en XAMPP los logs y cambiar los puertos de la base de datos:
 
 Es recomendable instalar **MySQL Workbench** o cualquier administrador de bases de datos similar para trabajar con mayor comodidad.
 
-[Siguiente clase →](./)
+[Siguiente clase →](./03-arquitectura-ansi-sparc.md)

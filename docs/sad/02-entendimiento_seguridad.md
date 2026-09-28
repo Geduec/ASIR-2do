@@ -103,4 +103,4 @@ Este comando permite consultar los puertos que están escuchando en el sistema y
 
 ![Comando ss -tulpn](img/02-03-comando-tulpn.png)
 
-[Siguiente clase →](./)
+[Siguiente clase →](./03-vulnerabilidades-ubuntu.md)

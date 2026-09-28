@@ -217,4 +217,4 @@ La principal diferencia respecto a las **2 capas** es que el cliente **no se con
 
 **En resumen:** en una arquitectura de **2 capas**, el cliente se conecta directamente al SGBD. En una arquitectura de **3 capas**, existe una capa intermedia que gestiona la lógica de la aplicación y se comunica con el SGBD.
 
-[Siguiente clase](./04-)
+[Siguiente clase](./)

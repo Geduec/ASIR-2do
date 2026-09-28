@@ -501,4 +501,4 @@ Se crearán las siguientes estructuras para la siguiente clase:
 * `PC-ADMIN-01`
 * `PC-SISTEMAS-01`
 
-[Siguiente clase →](./)
+[Siguiente clase →](./04-administracion-con-powershell.md)
