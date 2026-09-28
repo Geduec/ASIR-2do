@@ -15,3 +15,9 @@ Introducción al contenido de la asignatura y fundamentos
 Se verán la matriz de riesgos de probabilidad e impacto, comandos para ver parches de actualizaciones en Windows y Linux
 
 [→ Ver clase](02-entendimiento_seguridad.md)
+
+### 03. Vulnerabilidades en Ubuntu
+
+Se verá la clasificación de amenazas, el análisis de vulnerabilidades, la matriz de riesgos, CVE, CVSS y la revisión básica de sistemas Windows y Linux.
+
+[→ Ver clase](03-vulnerabilidades-ubuntu.md)

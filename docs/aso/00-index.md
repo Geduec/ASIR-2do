@@ -21,3 +21,15 @@ Se verá la intalación de dominios y de active directory en Windows Server.
 Se verá la estructura y creación de OU, grupos y usuarios y configuraciones
 
 [→ Ver clase](03-estructura-de-active-directory.md)
+
+### 04. Administración con PowerShell
+
+Se verá la administración básica de PowerShell, los cmdlets, objetos, procesos, archivos, carpetas y gestión básica de usuarios.
+
+[→ Ver clase](04-administracion-con-powershell.md)
+
+### 05. Gestión de Active Directory con PowerShell
+
+Se verá cómo administrar Active Directory mediante PowerShell, creando y eliminando OU, usuarios y grupos, además de modificar y gestionar usuarios.
+
+[→ Ver clase](05-gestion-ad-con-powershell.md)
