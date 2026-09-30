@@ -295,6 +295,22 @@ Primero editaremos el archivo:
 sudo nano /etc/bind/named.conf.local
 ```
 
+```bash
+//
+// Do any local configuration here
+//
+
+// Consider adding the 1918 zones here, if they are not used in your
+// organization
+//include "/etc/bind/zones.rfc1918";
+
+// Declaramos nuestra zona
+zone "asir.test"{                       // Nombre del dominio
+        type master;                    // Servidor principal: copia primaria
+        file "/etc/bind/db.asir.test";  // Ruta absoluta, de la BBDD de los registros
+};
+```
+
 Aquí declararemos nuestra zona DNS.
 
 Después crearemos el archivo que contendrá los registros de la zona:
@@ -307,4 +323,4 @@ En este archivo añadiremos los registros DNS correspondientes a `asir.test`.
 
 En las siguientes clases configuraremos la zona y sus registros.
 
-[Siguiente clase →](./)
+[Siguiente clase →](./05-configuracion-zona-conexion-server-cliente.md)

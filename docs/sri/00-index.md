@@ -27,3 +27,9 @@ Se habla de la jerarquía y procesos y consultas de DNS
 Se verá la instalación de bind9 así como sus configuraciones
 
 [→ Ver clase](04-instalacion-bind9.md)
+
+### 05. Configuración de zona y conexion de servidor y cliente
+
+Se configurará la zona de bind9 asi como configuracion de ubuntu desktop para poder conectarse con ubuntu server
+
+[→ Ver clase](05-configuracion-zona-conexion-server-cliente.md)
